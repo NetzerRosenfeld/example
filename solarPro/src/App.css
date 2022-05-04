@@ -1,0 +1,53 @@
+.con {
+  width: 90%;
+}
+.text-orange {
+  color: #ff8603;
+}
+.text-purple {
+  color: #333366;
+}
+.text-primary {
+  color: #191919;
+}
+.text-grey {
+  color: #a1a5c0;
+}
+.text-right {
+  text-align: right;
+}
+.bg-orange {
+  background-color: #ff8603;
+}
+.bg-purple {
+  color: #333366;
+}
+h1 {
+  font-size: 34px;
+  font-weight: 700;
+}
+h2 {
+  font-size: 24px;
+}
+h3 {
+  font-size: 20px;
+  font-weight: 400;
+}
+h4 {
+  font-size: 16px;
+}
+Button {
+  font-size: 18px;
+}
+.text {
+  font-size: 18px;
+}
+.text-medium {
+  font-size: 18px;
+}
+.text-2 {
+  font-size: 16px;
+}
+.text-3 {
+  font-size: 14px;
+}
